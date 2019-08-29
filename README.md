@@ -85,6 +85,8 @@ This challenge has several parts, the goal is to achieve as much as you can with
 
 **TIP**: if you are familiar with any reactive or event driven frameworks you may find they provide a slight advantage in later parts of this challenge
 
+**NOTE**: This challenge should be done in either **Java** or **Scala**
+
 ## Part 0 
 
 Fork this repository and rename this file to `instructions.md`. Include all your own build and running information in the `README.md` file.
